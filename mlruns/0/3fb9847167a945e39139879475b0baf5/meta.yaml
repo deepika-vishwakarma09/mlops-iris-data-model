@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DIPIKA%20VISHWAKARMA/Desktop/lab3mlops/mlops-iris-data-model/mlruns/0/3fb9847167a945e39139879475b0baf5/artifacts
+end_time: 1744210445933
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3fb9847167a945e39139879475b0baf5
+run_name: svm
+run_uuid: 3fb9847167a945e39139879475b0baf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744210445792
+status: 3
+tags: []
+user_id: DIPIKA VISHWAKARMA

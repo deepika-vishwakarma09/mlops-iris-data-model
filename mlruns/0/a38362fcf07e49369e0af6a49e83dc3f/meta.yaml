@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DIPIKA%20VISHWAKARMA/Desktop/lab3mlops/mlops-iris-data-model/mlruns/0/a38362fcf07e49369e0af6a49e83dc3f/artifacts
+end_time: 1744209246294
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a38362fcf07e49369e0af6a49e83dc3f
+run_name: logistic_regression
+run_uuid: a38362fcf07e49369e0af6a49e83dc3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744209246069
+status: 3
+tags: []
+user_id: DIPIKA VISHWAKARMA
